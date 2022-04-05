@@ -7,3 +7,5 @@ Ejemplos de proyecttos afines
 https://www.idigbio.org/wiki/index.php/Using_Wikidata_to_Capture_and_Share_Information_about_People_in_Paleontology
 Curating a Wikidata entry for a researcher https://cthoyt.com/2021/08/17/self-organization.html
 Curating a Wikidata entry for a research organization https://www.biocuration.org/dissemination/biocuration-training-materials/#:~:text=Curating%20a%20Wikidata,a%20research%20organization
+
+La presentación  https://docs.google.com/presentation/d/1ZFnAmfH58y6YWPNM8--Xipt9byOYOlUwBHhG9TXt28c/present?slide=id.p
