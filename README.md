@@ -1,7 +1,7 @@
 # Wikidatacolor
 Investigación digital para biología: color y seres vivos con Wikidata
 
-Este proyecto forma parte de la Línea de investigación [Biocolores](https://sites.google.com/a/ciencias.unam.mx/layla-michan/hub-biocolores) y se realiza en el Laboratorio de Bioinformación de la Facultad de Ciencias, UNAM (https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home)
+Este proyecto forma parte de la Línea de investigación [Biocolores](https://sites.google.com/a/ciencias.unam.mx/layla-michan/hub-biocolores) y se realiza en el [Laboratorio de Bioinformación de la Facultad de Ciencias, UNAM ](https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home)
 
 Ejemplos de proyecttos afines
 https://www.idigbio.org/wiki/index.php/Using_Wikidata_to_Capture_and_Share_Information_about_People_in_Paleontology
