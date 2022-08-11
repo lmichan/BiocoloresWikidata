@@ -8,6 +8,12 @@ Este proyecto forma parte de la Línea de investigación [Biocolores](https://si
 
 [🎥El video](https://youtu.be/IB7ZxpaWnzI)
 
+## Temas
+1.Color charts
+2.Colores Colibries
+3.Colores Equinidae
+4.Colores Felidae
+
 
 ### Ejemplos de proyectos afines
 + https://www.idigbio.org/wiki/index.php/Using_Wikidata_to_Capture_and_Share_Information_about_People_in_Paleontology
