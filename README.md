@@ -5,6 +5,8 @@ Este proyecto forma parte de la Línea de investigación [Biocolores](https://si
 
 [La presentación](https://docs.google.com/presentation/d/1ZFnAmfH58y6YWPNM8--Xipt9byOYOlUwBHhG9TXt28c/present?slide=id.p)
 [🖥](https://docs.google.com/presentation/d/1ZFnAmfH58y6YWPNM8--Xipt9byOYOlUwBHhG9TXt28c/edit#slide=id.p)
+[🖥El video]([https://docs.google.com/presentation/d/1ZFnAmfH58y6YWPNM8--Xipt9byOYOlUwBHhG9TXt28c/present?slide=id.p](https://youtu.be/IB7ZxpaWnzI)
+
 
 ### Ejemplos de proyectos afines
 + https://www.idigbio.org/wiki/index.php/Using_Wikidata_to_Capture_and_Share_Information_about_People_in_Paleontology
