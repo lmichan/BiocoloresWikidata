@@ -10,9 +10,13 @@ Este proyecto forma parte de la Línea de investigación [Biocolores](https://si
 
 ## Temas
 1.Color charts
+
 2.Colores Colibries
+
 3.Colores Equinidae
+
 4.Colores Felidae
+
 
 
 ### Ejemplos de proyectos afines
