@@ -4,7 +4,9 @@
 Este proyecto forma parte de la Línea de investigación [Biocolores](https://sites.google.com/a/ciencias.unam.mx/layla-michan/hub-biocolores) y se realiza en el [Laboratorio de Bioinformación de la Facultad de Ciencias, UNAM ](https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home)
 
 [La presentación](https://docs.google.com/presentation/d/1ZFnAmfH58y6YWPNM8--Xipt9byOYOlUwBHhG9TXt28c/present?slide=id.p)
+
 [🖥](https://docs.google.com/presentation/d/1ZFnAmfH58y6YWPNM8--Xipt9byOYOlUwBHhG9TXt28c/edit#slide=id.p)
+
 [🖥El video]([https://docs.google.com/presentation/d/1ZFnAmfH58y6YWPNM8--Xipt9byOYOlUwBHhG9TXt28c/present?slide=id.p](https://youtu.be/IB7ZxpaWnzI)
 
 
