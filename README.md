@@ -9,13 +9,13 @@ Este proyecto forma parte de la Línea de investigación [Biocolores](https://si
 [🎥El video](https://youtu.be/IB7ZxpaWnzI)
 
 ## Temas
-1.Color charts
+1. Color charts
 
-2.Colores Colibries
+2. Colores Colibries
 
-3.Colores Equinidae
+3. Colores Equinidae
 
-4.Colores Felidae
+4. Colores Felidae
 
 
 
