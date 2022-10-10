@@ -17,6 +17,12 @@ Este proyecto forma parte de la Línea de investigación [Biocolores](https://si
 
 4. Colores Felidae
 
+5. Colores peces
+
+6. Institucionalización Biología del Color
+
+7. Días internacionales relacionados con los colores de los seres vivos
+
 
 
 ### Ejemplos de proyectos afines
